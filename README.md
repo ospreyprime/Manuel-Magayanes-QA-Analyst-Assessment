@@ -1,8 +1,8 @@
 # QA Analyst Technical Assessment
 
-**Candidate:** Manuel Magayanes
-**Language Used:** Python
-**Completion Date:** 10/14/25
+- **Candidate:** Manuel Magayanes
+- **Language Used:** Python
+- **Completion Date:** 10/14/25
 
 ## Part 1: Functional Programming
 - **Time Spent:** ~5 minutes
