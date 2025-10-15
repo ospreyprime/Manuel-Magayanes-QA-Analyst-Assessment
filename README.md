@@ -14,8 +14,6 @@
 
 ## How to Run
 ### Part 1
-
-### Go to the folder for Part 1
 Go to the folder for Part 1:
 ```bash
 cd qa-analyst-assessment/part1-functional
