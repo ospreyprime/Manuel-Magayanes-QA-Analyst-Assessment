@@ -9,8 +9,7 @@ def remove_duplicates(inputArray):
     return noDuplicatesArray
 
 
-
-
+# Run all the test cases
 if __name__== "__main__":
     case1 = remove_duplicates([1, 2, 3, 2, 4, 1, 5])
     case2 = remove_duplicates([1, 1, 1]) 

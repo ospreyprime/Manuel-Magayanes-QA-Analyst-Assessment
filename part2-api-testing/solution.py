@@ -43,6 +43,7 @@ class TestJSONPlaceholderAPI:
         print(f"Response: {json.dumps(response.json(), indent=2)}\n")
 
 
+# Run all the test cases
 if __name__=="__main__":
     # Create an instance of the TestJSONPlaceholderAPI class
     testInstance = TestJSONPlaceholderAPI()
