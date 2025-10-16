@@ -5,11 +5,11 @@
 - **Completion Date:** 10/14/25
 
 ## Part 1: Functional Programming
-- **Time Spent:** ~5 minutes
+- **Time Spent:** ~30 minutes
 - **Approach:** Create a new array that would have all non-duplicate values. Then iterate through all the values in the given array and insert them into the new array if that value isn't already in the new array.
 
 ## Part 2: API Testing  
-- **Time Spent:** ~15 minutes
+- **Time Spent:** ~30 minutes
 - **Approach:** Used the requests library to make each of the desired requests. Used the json library to both display each endpoint's response and to make the POST request for the second endpoint. The data for the second endpoint's request is obtained from the user via the input() function. The necessary data for that request was determined from the given website which is the given base url.
 
 ## How to Run
