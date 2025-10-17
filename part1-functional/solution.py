@@ -14,4 +14,10 @@ if __name__== "__main__":
     case1 = remove_duplicates([1, 2, 3, 2, 4, 1, 5])
     case2 = remove_duplicates([1, 1, 1]) 
     case3 = remove_duplicates([])
-    print(f"{case1}\n{case2}\n{case3}\n")
+    print(f"""\n--- Case 1: [1, 2, 3, 2, 4, 1, 5] ---\n
+    {case1}\n
+    \n--- Case 2: [1, 1, 1]] ---\n
+    {case2}\n
+    \n--- Case 3: [] ---\n
+    {case3}\n
+    """)
